@@ -1,0 +1,15 @@
+* {
+	text-align: center;
+	font-family: helvetica, arial, sans-serif;
+}
+
+#header {
+	background-image: ('resources/images/broadway.png');
+	width: 100;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
